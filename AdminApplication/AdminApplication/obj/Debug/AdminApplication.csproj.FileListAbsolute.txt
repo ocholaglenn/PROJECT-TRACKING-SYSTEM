@@ -1,0 +1,11 @@
+F:\PTS\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe.config
+F:\PTS\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe
+F:\PTS\AdminApplication\AdminApplication\bin\Debug\AdminApplication.pdb
+F:\PTS\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.dll
+F:\PTS\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.pdb
+F:\PTS\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csprojResolveAssemblyReference.cache
+F:\PTS\AdminApplication\AdminApplication\obj\Debug\AdminApplication.frmAdmin.resources
+F:\PTS\AdminApplication\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+F:\PTS\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.Cache
+F:\PTS\AdminApplication\AdminApplication\obj\Debug\AdminApplication.exe
+F:\PTS\AdminApplication\AdminApplication\obj\Debug\AdminApplication.pdb

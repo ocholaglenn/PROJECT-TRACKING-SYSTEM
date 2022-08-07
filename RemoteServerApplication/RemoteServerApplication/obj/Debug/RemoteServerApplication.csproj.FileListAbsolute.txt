@@ -1,0 +1,8 @@
+F:\PTS\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe.config
+F:\PTS\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe
+F:\PTS\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.pdb
+F:\PTS\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.dll
+F:\PTS\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.pdb
+F:\PTS\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.csprojResolveAssemblyReference.cache
+F:\PTS\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.exe
+F:\PTS\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.pdb
