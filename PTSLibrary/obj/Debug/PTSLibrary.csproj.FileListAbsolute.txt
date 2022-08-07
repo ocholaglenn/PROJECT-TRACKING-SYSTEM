@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\bin\Debug\PTSLibrary.dll.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\bin\Debug\PTSLibrary.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\bin\Debug\PTSLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.csprojResolveAssemblyReference.cache
